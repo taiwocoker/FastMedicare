@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/taiwocoker/FastMedicare.svg?branch=develop)](https://travis-ci.com/taiwocoker/FastMedicare)
 # README
 
 This README would normally document whatever steps are necessary to get the
