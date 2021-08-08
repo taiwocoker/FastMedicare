@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/taiwocoker/FastMedicare.svg?branch=develop)](https://travis-ci.com/taiwocoker/FastMedicare)[![Coverage Status](https://coveralls.io/repos/github/taiwocoker/FastMedicare/badge.svg?branch=develop)](https://coveralls.io/github/taiwocoker/FastMedicare?branch=develop)
 # README
 
 This README would normally document whatever steps are necessary to get the
